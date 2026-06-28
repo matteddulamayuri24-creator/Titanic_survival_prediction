@@ -198,7 +198,12 @@ Through this project, the following concepts were learned:
 ## 👩‍💻 Author
 
 **Matteddula Mayuri**
+
 Department of Artificial Intelligence and Machine Learning
+
 Sri Venkateswara College of Engineering
 
+GitHub Profile:
+
+https://github.com/matteddulamayuri24-creator
 ---
