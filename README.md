@@ -1,5 +1,14 @@
 # Titanic Survival Prediction Using Machine Learning
 
+Author
+Name: Matteddula Mayuri
+
+College: Sri Venkateswara College of Engineering
+
+Internship: Machine Learning Internship
+
+Task Number: Task 3 – Titanic Survival Prediction
+
 ## 📖 Introduction
 
 The Titanic Survival Prediction project is a supervised machine learning classification project that predicts whether a passenger survived the Titanic disaster. The project uses passenger information such as age, gender, passenger class, fare, and family details to build an accurate prediction model.
@@ -195,15 +204,3 @@ Through this project, the following concepts were learned:
 
 ---
 
-## 👩‍💻 Author
-
-**Matteddula Mayuri**
-
-Department of Artificial Intelligence and Machine Learning
-
-Sri Venkateswara College of Engineering
-
-GitHub Profile:
-
-https://github.com/matteddulamayuri24-creator
----
